@@ -1,0 +1,14 @@
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao.deps.json
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao.runtimeconfig.json
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao.runtimeconfig.dev.json
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao.dll
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/bin/Debug/netcoreapp3.1/DroneExploracao.pdb
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.csproj.AssemblyReference.cache
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.AssemblyInfoInputs.cache
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.AssemblyInfo.cs
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.csproj.CoreCompileInputs.cache
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.dll
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.pdb
+/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/obj/Debug/netcoreapp3.1/DroneExploracao.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "imYwnmW1VF2pICu9+rXUwdMyXzkgr6qVgLdRpkiZX+iAPCRRImDIpyWN0Q5FZMmKziiiruAwBay7E5YGnJCqFA==",
+  "success": true,
+  "projectFilePath": "/Users/lucassantanadesouza/Projects/Desafio/DroneExploracao/DroneExploracao.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucassantanadesouza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lucassantanadesouza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/lucassantanadesouza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
